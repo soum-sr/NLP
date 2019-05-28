@@ -1,2 +1,2 @@
 # NLP
-Natural Language processing Tutorials
+Implementation of NLP concepts
